@@ -1,1 +1,1 @@
-document.head.title = 'GO VISIT mytimehub.netlify.app'
+document.title = 'GO VISIT mytimehub.netlify.app';
