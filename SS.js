@@ -1,0 +1,1 @@
+document.head.title = 'GO VISIT mytimehub.netlify.app'
