@@ -1,6 +1,5 @@
 #paper_doll_container{
   background-color: black;
-  border:3px solid rgb(33, 68, 208);
   border-radius: 15px;
   z-index: -1;
 }
